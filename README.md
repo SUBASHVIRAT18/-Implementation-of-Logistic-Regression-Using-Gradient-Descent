@@ -77,4 +77,4 @@ plt.show()
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
-](https://github.com/SUBASHVIRAT18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student.git)
+]
